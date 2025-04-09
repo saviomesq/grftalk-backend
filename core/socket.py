@@ -1,6 +1,6 @@
 import socketio
 
-import django.conf import settings
+from django.conf import settings
 
 #create a socketio server instance
 
